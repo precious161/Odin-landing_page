@@ -3,7 +3,6 @@ body{
 }
 .one{
     background-color: #1F2937;
-    position: fixed;
 }
 .header{
    display: flex;
